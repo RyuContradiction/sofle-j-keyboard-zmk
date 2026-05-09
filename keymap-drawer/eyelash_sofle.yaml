@@ -64,7 +64,7 @@ layers:
   - layer2
   - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-option$$
-  - RIGHT GUI
+  - {t: \, s: '|'}
   layer1:
   - {t: '`', s: '~'}
   - F1
